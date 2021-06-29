@@ -2,12 +2,6 @@
 <h4 align="center"><i>Passionate Engineer 🌱 Explorer 🌱 Ambivert</i></h4>
 <br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnaranjani/" target="_blank">
@@ -40,10 +34,11 @@
   <br>
  <b><i align="center"> "Mindset is What Separates the Best from the Rest ”</i></b>
 </p>
+<img align="center " width=1000px height=50px alt="side_sticker" src="https://media.giphy.com/media/BUNgAW9kUmXbndFxhm/giphy.gif" />
 
 <p align="center">
 
-### Technical Skills <img src="https://media.giphy.com/media/3Fn48BycQFHImJjsN8/giphy.gif" width="40" />
+### <img src="https://media.giphy.com/media/3Fn48BycQFHImJjsN8/giphy.gif" width="40" /> Technical Skills 
 
 #### Language
 
@@ -55,7 +50,7 @@
 <code><img title="CSS" height="20" src="https://user-images.githubusercontent.com/76845634/123813355-76297800-d912-11eb-88e2-cbf17a14f564.png"/></code>
 
 
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" />
 #### Data
 
 <code><img title="MySQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
@@ -80,16 +75,26 @@
 
 #### Domain Knownledge
 
-  <code><img title="computer science" height="20" src="https://user-images.githubusercontent.com/76845634/123816131-af62e780-d914-11eb-862f-0877c0a2d5c3.png"></code> 
-  <code><img title="computer science" height="20" src="https://user-images.githubusercontent.com/76845634/123816131-af62e780-d914-11eb-862f-0877c0a2d5c3.png"></code> 
+  <code><img title="Machine learning" height="30" src="https://user-images.githubusercontent.com/76845634/123829005-b2170a00-d91f-11eb-9496-79a24d52ab0d.png"></code> 
+  <code><img title="Internet of things" height="30" src="https://user-images.githubusercontent.com/76845634/123828857-8b58d380-d91f-11eb-84ad-f89946f6a616.png"></code> 
+  <code><img title="Web Development" height="30" src="https://user-images.githubusercontent.com/76845634/123829780-5c8f2d00-d920-11eb-9538-fde5f6a6d748.png"></code> 
+  <code><img title="Robotics" height="30" src="https://user-images.githubusercontent.com/76845634/123829566-32d60600-d920-11eb-8048-9da4fb0630f3.png"></code> 
+  <code><img title="Android Development" height="30" src="https://user-images.githubusercontent.com/76845634/123830061-96f8ca00-d920-11eb-911c-55131c6a9c26.png"></code> 
 
   
 
 
+#### Working tools
 
-#### Other
+<code><img title="Google Colab" height="20" src="https://user-images.githubusercontent.com/76845634/123830638-1d151080-d921-11eb-9089-b635666807f0.png"></code>
+<code><img title="Linux" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> <code><img title="git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img title="vs-code" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img title="Jupyter Notebook"  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code> 
+<code><img title="Pycharm" height="20" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
+<code><img title="Spyder" height="20" src="https://user-images.githubusercontent.com/76845634/123830855-5483bd00-d921-11eb-8598-0293b353833f.png"></code>
+<code><img title="Blender" height="20" src="https://user-images.githubusercontent.com/76845634/123831152-a6c4de00-d921-11eb-8d46-4ae28452f927.png"></code>
+<code><img title="Android Studio" height="20" src="https://user-images.githubusercontent.com/76845634/123831271-c956f700-d921-11eb-80cf-756f84874d0b.png"></code>
 
-<code><img title="Celery" height="20" src="https://img.stackshare.io/service/1075/celery.png"></code> <code><img title="Linux" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code> <code><img title="git" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> <code><img title="vs-code" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code> <code><img title="Jupyter Notebook"  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code> <code><img title="Pycharm" height="20" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
 
 </p>
 
@@ -97,15 +102,20 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Facts you might be wondering about**
 
-- 🔭 **Currently working with:** AWS, Microservice architecture, Python, Django, Django REST framework, Bootstrap, Javascript
-- ⚡ **Getting better at:** System design principal, AWS components, DevOps automation
-- :star2: **Experienced project domain:** Trivia game, Personal health management, SEO tools, Archived video streaming, Ads Recommender, Live Gaming Ranklist, Real-time opponent match making, Payment Integration, Transportation management system
-- 🌱 **Discovering queue:** CI/CD pipeline tools, Docker
-- 💬 **Ask me about:** Serverless architecture, DynamoDB, AWS, MTV
+- 🔭 **Currently working with:** Machine Learning, Python, Simulation.
+- ⚡ **Getting better at:** Medic based Ml, Automation.
+- :star2: **Experienced project domain:**  Robotic Vehicle for environmental Impact Analysis,  Education/ career Guidience Application , Medicine management system, Internet Of Things
+- 🌱 **Discovering queue:** Material point method
+,  Deep learning, simulation.
+- 💬 **What I'm focusing on:**  I'm on track for learning more about Artificial Intelligence, Robotics Technology
 - :coffee: **Learn more about me**: Have a ride on
-- 📫 **How to reach me:** knock! knock! at rctushar07@gmail.com
-- :purple_heart: **Personal Interest:** Programming, Philosophy, Psychology
+- 📫 **How to reach me:** knock! knock! at rkrishnaranjani12@gmail.com
+- :purple_heart: **Personal Interest:** Programming, Robotics,  Space Technologies Innovations
 
 <p align="center">
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fdarkprinx%2Fdarkprinx%2Fblob%2Fmaster%2FREADME.md" alt="Hits">
+<img src="https://img.shields.io/badge/Age-22-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
 </p>
+
