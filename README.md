@@ -5,22 +5,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krishnaranjani/" target="_blank">
-  <img alt="krishna-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
+  <img title="LinkedIN" alt="krishna-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
   </a>
   
   <a href="https://www.madrasresearch.org/team/krishnaranjani" target="_blank">
-    <img alt="krishna-Organization" src="https://user-images.githubusercontent.com/76845634/123747383-7dc82d00-d8d0-11eb-8cba-0691a3290a31.png" width="30" height="30" >
+    <img title="Work" alt="krishna-Organization" src="https://user-images.githubusercontent.com/76845634/123902028-bc6dee00-d989-11eb-8f54-d18156006507.png" width="30" height="30" >
   </a>
 
   <a href="https://twitter.com/Krishnaranjani_" target="_blank">
-    <img alt="krishna-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
+    <img  title="Twitter" alt="krishna-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
   </a>
   
    <a href="https://www.instagram.com/aim_2_spark/" target="_blank">
-    <img alt="krishna-instagram" src="https://user-images.githubusercontent.com/76845634/123746282-1067cc80-d8cf-11eb-85e8-2c594ded1e12.png" width="30" height="30" >
+    <img title="Instagram" alt="krishna-instagram" src="https://user-images.githubusercontent.com/76845634/123746282-1067cc80-d8cf-11eb-85e8-2c594ded1e12.png" width="30" height="30" >
   </a>
     <a href="mailto: rkrishnaranjani12gmail.com" target="_blank">
-       <img alt="krishna-mail" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="40" height="30" >
+       <img title="" alt="krishna-mail" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" width="40" height="30" >
   </a>
 </p>
 </p>
@@ -34,7 +34,7 @@
   <br>
  <b><i align="center"> "Mindset is What Separates the Best from the Rest ”</i></b>
 </p>
-<img align="center " width=1000px height=50px alt="side_sticker" src="https://media.giphy.com/media/BUNgAW9kUmXbndFxhm/giphy.gif" />
+<img align="center " width=1000px height=20px alt="side_sticker" src="https://media.giphy.com/media/BUNgAW9kUmXbndFxhm/giphy.gif" />
 
 <p align="center">
 
@@ -51,7 +51,8 @@
 
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/zN2IXI0TEnalqdlCkZ/giphy.gif" />
-#### Data
+  
+ #### Data
 
 <code><img title="MySQL" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> 
 <code><img title="SQLite" height="20" src="https://raw.githubusercontent.com/github/explore/2d218e3aa252dc90eef269b34eeec1fbd15dc07e/topics/sqlite/sqlite.png"></code> <code><img title="SQL" height="20" src="https://user-images.githubusercontent.com/76845634/123792071-d82bb280-d8fd-11eb-8b77-54ed101e94d3.png"/></code>
