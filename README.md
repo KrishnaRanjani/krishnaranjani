@@ -92,7 +92,7 @@
 <code><img title="vs-code" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img title="Jupyter Notebook"  height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code> 
 <code><img title="Pycharm" height="20" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></code>
-<code><img title="Eclipse" height="20" src=" https://user-images.githubusercontent.com/76845634/123906001-09a18e00-d991-11eb-8e25-bbe7bdde64e2.png"></code>
+<code><img title="Eclipse" height="20" src="https://user-images.githubusercontent.com/76845634/123906001-09a18e00-d991-11eb-8e25-bbe7bdde64e2.png"></code>
 <code><img title="Spyder" height="20" src="https://user-images.githubusercontent.com/76845634/123830855-5483bd00-d921-11eb-8598-0293b353833f.png"></code>
 <code><img title="Blender" height="20" src="https://user-images.githubusercontent.com/76845634/123831152-a6c4de00-d921-11eb-8d46-4ae28452f927.png"></code>
 <code><img title="Android Studio" height="20" src="https://user-images.githubusercontent.com/76845634/123831271-c956f700-d921-11eb-80cf-756f84874d0b.png"></code>
