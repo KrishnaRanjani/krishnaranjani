@@ -13,9 +13,10 @@
   </a>
 
   <a href="https://twitter.com/Krishnaranjani_" target="_blank">
-    <img  title="Twitter" alt="krishna-Twitter" src="https://image.flaticon.com/icons/svg/124/124021.svg" width="30" height="30" >
+    <img  title="Twitter" alt="krishna-Twitter" src="https://user-images.githubusercontent.com/76845634/144350033-1cfee5a9-56c8-4949-8578-2f0ed2b09821.png" width="30" height="30" >
   </a>
   
+
    <a href="https://www.instagram.com/aim_2_spark/" target="_blank">
     <img title="Instagram" alt="krishna-instagram" src="https://user-images.githubusercontent.com/76845634/123746282-1067cc80-d8cf-11eb-85e8-2c594ded1e12.png" width="30" height="30" >
   </a>
