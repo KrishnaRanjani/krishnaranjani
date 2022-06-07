@@ -104,7 +104,8 @@
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Facts you might be wondering about**
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  -->
+**Facts you might be wondering about**
 
 - 🔭 **Currently working with:** Machine Learning, Python, Simulation.
 - ⚡ **Getting better at:** Medic based Ml, Automation.
