@@ -36,7 +36,7 @@
   <br>
  <b>   <img src="https://media.giphy.com/media/lNQXVvSNNTSCeXhwa5/giphy.gif" width="40" /> <i align="center"> "Mindset is What Separates the Best from the Rest ”</i></b>
 </p>
-<img align="center "  height=20px alt="side_sticker" src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif" />
+<img align="center"  height=20px alt="side_sticker" src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif" />
 
 <p align="center">
 
