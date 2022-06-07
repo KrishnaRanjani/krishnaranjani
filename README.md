@@ -28,7 +28,8 @@
 
 <p align="center">
   <em>
-    Passionate Engineer 👩‍🎓 pronto working on Machine Learning and Automation. I thrive on challenge and constantly set goals 🚀 for myself, so I have something to strive toward. A passionate self-learner <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> always looking for an opportunity to do better and achieve greatness in innovation.
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> 
+    Passionate Engineer 👩‍🎓 pronto working on Machine Learning and Automation. I thrive on challenge and constantly set goals 🚀 for myself, so I have something to strive toward. A passionate self-learner always looking for an opportunity to do better and achieve greatness in innovation.
     
    
   </em> 
@@ -103,8 +104,8 @@
 
 ---
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Facts you might be wondering about**
-
+<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Facts you might be wondering about**
+ -->
 - 🔭 **Currently working with:** Machine Learning, Python, Simulation.
 - ⚡ **Getting better at:** Medic based Ml, Automation.
 - :star2: **Experienced project domain:**  Robotic Vehicle for environmental Impact Analysis,  Education/ career Guidience Application , Medicine management system, Internet Of Things
