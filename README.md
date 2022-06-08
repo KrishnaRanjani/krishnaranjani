@@ -36,7 +36,7 @@
   <br>
  <b>   <img src="https://media.giphy.com/media/lNQXVvSNNTSCeXhwa5/giphy.gif" width="40" /> <i align="center"> "Mindset is What Separates the Best from the Rest ”</i></b>
 </p>
-<img align="center"  height=20px alt="side_sticker" src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif" />
+<img align="center"  height="20" width="1170" alt="side_sticker" src="https://media.giphy.com/media/ZOkURrKi3HG5VbeoBf/giphy.gif" />
 
 <p align="center">
 
@@ -104,8 +104,8 @@
 
 ---
 
-<!-- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  -->
-**Facts you might be wondering about**
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> **Facts you might be wondering about**
+
 
 - 🔭 **Currently working with:** Machine Learning, Python, Simulation.
 - ⚡ **Getting better at:** Medic based Ml, Automation.
@@ -118,7 +118,7 @@
 - :purple_heart: **Personal Interest:** Programming, Robotics,  Space Technologies Innovations
 
 <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Tamil-brightgreen" />
