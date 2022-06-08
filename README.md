@@ -8,7 +8,7 @@
   <img title="LinkedIN" alt="krishna-Linkedin" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="30" height="30" >
   </a>
   
-  <a href="https://www.madrasresearch.org/team/krishnaranjani" target="_blank">
+  <a href="https://www.madrasresearch.org/team/" target="_blank">
     <img title="Work" alt="krishna-Organization" src="https://user-images.githubusercontent.com/76845634/123902028-bc6dee00-d989-11eb-8f54-d18156006507.png" width="30" height="30" >
   </a>
 
