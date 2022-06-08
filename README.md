@@ -107,12 +107,12 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> **Facts you might be wondering about**
 
 
-- 🔭 **Currently working with:** Machine Learning, Python, Simulation.
-- ⚡ **Getting better at:** Medic based Ml, Automation.
+- 🔭 **Currently working with:** Machine Learning, Python, Simulation, Virtual Reality and Augmented Reality.
+- ⚡ **Getting better at:** Medic based Ml, Automation, AR and VR.
 - :star2: **Experienced project domain:**  Robotic Vehicle for environmental Impact Analysis,  Education/ career Guidience Application , Medicine management system, Internet Of Things
 - 🌱 **Discovering queue:** Material point method
 ,  Deep learning, simulation.
-- 💬 **What I'm focusing on:**  I'm on track for learning more about Artificial Intelligence, Robotics Technology
+- 💬 **What I'm focusing on:**  I'm on track for learning more about Artificial Intelligence, Robotics Technology, AR & VR.
 - :coffee: **Learn more about me**: Have a ride on https://krishnaranjani.github.io/Krish/ 
 - 📫 **How to reach me:** knock! knock! at rkrishnaranjani12@gmail.com
 - :purple_heart: **Personal Interest:** Programming, Robotics,  Space Technologies Innovations
