@@ -115,7 +115,7 @@
 - 💬 **What I'm focusing on:**  I'm on track for learning more about Artificial Intelligence, Robotics Technology, AR & VR.
 <!-- - :coffee: **Learn more about me**: Have a ride on https://krishnaranjani.github.io/Krish/  -->
 - 📫 **How to reach me:** knock! knock! at rkrishnaranjani12@gmail.com
-- :purple_heart: **Personal Interest:** Programming, Robotics,  Space Technologies Innovations
+- :purple_heart: **Personal Interest:** Programming, Robotics, Immersive Learning 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
