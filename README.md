@@ -113,7 +113,7 @@
 - 🌱 **Discovering queue:** Material point method
 ,  Deep learning, simulation.
 - 💬 **What I'm focusing on:**  I'm on track for learning more about Artificial Intelligence, Robotics Technology, AR & VR.
-- :coffee: **Learn more about me**: Have a ride on https://krishnaranjani.github.io/Krish/ 
+<!-- - :coffee: **Learn more about me**: Have a ride on https://krishnaranjani.github.io/Krish/  -->
 - 📫 **How to reach me:** knock! knock! at rkrishnaranjani12@gmail.com
 - :purple_heart: **Personal Interest:** Programming, Robotics,  Space Technologies Innovations
 
